@@ -1,0 +1,28 @@
+name: hellosnippster
+favicon: null
+layout_spectrum: 0.615072950720787
+typography_spectrum: 0.11100193578749895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33621045108884573
+  lightness: 0.3568932223133743
+  saturation: 0.5048304570373148
+  rhythmicContrast: 0.7078455309383571
+purpose: []
